@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Parimala Jillella
 
-### QA Automation → DevOps | DevSecOps | SRE | Cloud | AI
+### DevOps | DevSecOps | SRE | Cloud | AI
 
 Building hands-on skills in cloud infrastructure, automation, CI/CD, security, reliability, and AI.
 
@@ -12,7 +12,7 @@ Building hands-on skills in cloud infrastructure, automation, CI/CD, security, r
 
 ## 👩‍💻 About Me
 
-- 🔄 Transitioning from **QA Automation** into **DevOps / DevSecOps / SRE**
+- 🚀 Building my career in **DevOps / DevSecOps / SRE / Cloud Engineering**
 - ☁️ Building hands-on experience with **AWS** and cloud infrastructure
 - 🐧 Learning **Linux, networking, servers, and system administration**
 - 🔁 Exploring **CI/CD, infrastructure automation, and deployment workflows**
@@ -51,29 +51,24 @@ Currently learning:
 - Secrets and credential management
 - Security-first infrastructure practices
 
-### 🧪 QA & Test Automation
+### 💻 Programming & Automation
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Learning%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Automation-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-Experience and exposure:
-- Manual & Automation Testing
-- Selenium WebDriver
-- Katalon Studio
-- Playwright
+Automation and engineering tools:
+- Python & TypeScript
+- Playwright & Selenium
 - API Testing
-- Smoke, Sanity & Regression Testing
-- Agile / Scrum
-- TestRail
-- Azure DevOps pipelines
-- Bitbucket
+- Azure DevOps Pipelines
+- Git & Bitbucket
 
 ---
 
 ## 🤖 AI Interests
 
-I'm exploring how AI can improve software quality, DevOps workflows, and engineering productivity.
+I'm exploring how AI can improve DevOps workflows, cloud operations, automation, security, and engineering productivity.
 
 - AI Quality Evaluation
 - Prompt Evaluation
@@ -133,7 +128,7 @@ I am building this section as I complete hands-on labs.
 
 I'm working toward opportunities in:
 
-**DevOps Engineering • DevSecOps • Site Reliability Engineering (SRE) • Cloud Engineering • QA Automation • AI Quality**
+**DevOps Engineering • DevSecOps • Site Reliability Engineering (SRE) • Cloud Engineering • AI Engineering & Quality**
 
 ---
 
